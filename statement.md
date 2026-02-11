@@ -29,6 +29,7 @@ j = 3.14
 j = int(j)
 print(j)
 ```
+Another remark, if you want to go down to the next line, use the caracter "\n" in print()
 With Python, you can assing multiple values in one code line like this
 ```python runnable
 a ,b, c ="3",5,"bonjour"
