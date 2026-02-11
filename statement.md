@@ -32,7 +32,7 @@ print(j)
 With Python, you can assing multiple values in one code line like this
 ```python runnable
 a ,b, c ="3",5,"bonjour"
-print("a=",a,"\n b=",b,"\nc=",c)
+print("a=",a,"\nb=",b,"\nc=",c)
 ```
 # Advanced usage
 
