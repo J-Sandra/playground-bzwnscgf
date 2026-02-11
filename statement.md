@@ -19,7 +19,14 @@ for i in range (5):
 ```
 ### Variables
 A variable can contain values like integer,string,... and it's created the first moment you assing it the value
-
+```python runnable
+i = 5.456
+m = "hey"
+```
+If you want to specify the data type or cast a variable, you can do casting, for example
+```python runnable
+i = int(i)
+```
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
