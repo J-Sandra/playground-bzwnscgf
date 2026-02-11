@@ -25,7 +25,9 @@ m = "hey"
 ```
 If you want to specify the data type or cast a variable, you can do casting, for example
 ```python runnable
-i = int(i)
+j = 3.14
+j = int(j)
+print(j)
 ```
 # Advanced usage
 
