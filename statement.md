@@ -29,6 +29,11 @@ j = 3.14
 j = int(j)
 print(j)
 ```
+With Python, you can assing multiple values in one code line like this
+```python runnable
+a ,b, c ="3",5,"bonjour"
+print("a=",a,"b=",b ,"c=",c)
+```
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
