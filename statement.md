@@ -1,6 +1,6 @@
-# Welcome!
+# Introduction
 
-This Python template lets you get started quickly with a simple one-page playground.
+Python is a high-level programming language that is dynamically typed and interpreted. Python has some similarities to the English language and its syntax allow to write a programs with fewer lines
 
 ```python runnable
 print('Hello World!')
