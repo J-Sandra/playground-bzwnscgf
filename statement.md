@@ -17,7 +17,8 @@ print('Hello World!')
 for i in range (5):
     print('Hello World!')
 ```
-
+### Variables
+A variable can contain values like integer,string,... and it's created the first moment you assing it the value
 
 # Advanced usage
 
